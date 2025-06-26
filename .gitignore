@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore backup and config files
+*.rar
+*.iml
