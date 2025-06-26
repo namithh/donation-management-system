@@ -27,3 +27,5 @@ A Java desktop application for managing donations, built using MVC architecture.
 - **JDBC**
 - **IntelliJ IDEA**
 - **MVC architecture**
+
+Import the `donation_system.sql` file into MySQL to set up the database.
